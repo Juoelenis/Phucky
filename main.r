@@ -1,5 +1,6 @@
 # Load necessary libraries (if any are required)
 # install.packages("fs")  # Uncomment to install the 'fs' package for directory creation
+# if there was a genie that granted you 3 wishes, what would those wishes be?
 library(fs)
 
 # Function to extract frames from a video using ffmpeg
